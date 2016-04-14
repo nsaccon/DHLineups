@@ -1,0 +1,37 @@
+Value Goalies
+
+Peter Budaj: 0.984
+Jhonas Enroth: 0.906
+Jonathan Quick: 0.854
+Braden Holtby: 0.731
+Kari Lehtonen: 0.651
+Antti Niemi: 0.633
+Roberto Luongo: 0.632
+Al Montoya: 0.631
+Philipp Grubauer: 0.605
+James Reimer: 0.587
+
+Value Centers
+
+Radek Faksa: 0.732
+Mikael Granlund: 0.683
+Jeff Carter: 0.677
+Marcus Johansson: 0.636
+Logan Couture: 0.624
+Aleksander Barkov: 0.623
+Jason Spezza: 0.616
+
+Value Wingers
+
+Kris Versteeg: 0.717
+Colton Sceviour: 0.713
+Ales Hemsky: 0.672
+Antoine Roussel: 0.636
+Jonathan Huberdeau: 0.633
+
+Value Defenceman
+
+John Carlson: 0.647
+Calvin de Haan: 0.627
+Roman Polak: 0.613
+Kris Russell: 0.607
